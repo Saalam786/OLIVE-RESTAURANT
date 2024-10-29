@@ -1,4 +1,4 @@
-let activeAbout = false;
+ let activeAbout = false;
 let activePay = false;
 
 function aboutActive() {
@@ -45,5 +45,5 @@ function togglePayment() {
 }
 
 function popup(){
-  alert("Please place your order at the manager desk!!!")
+  alert("Please place your order at the manager desk!!!  📞+91 7980700295 ")
 }
